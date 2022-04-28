@@ -1,4 +1,4 @@
-# Awesome Ortholinear Keyboards
+# Awesome Ortholinear Keyboards [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 - [15x5](#15x5)
   - [ID75](#id75)
