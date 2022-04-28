@@ -20,11 +20,12 @@
 
 ## 15x5
 
-**75 keys** - enough keys for all the symbols and the arrow cluster or full-size numpad. Can also put numpad (or other keys) in the center to make it a split layout.
+**75 keys** - enough keys for all of the symbols and the arrow cluster, as well as a full-size numpad. Can also convert to a split layout by placing the numpad (or other keys) in the center.
 
 ### ID75
 
 ![ID75](assets/ID75.jpeg)
+
 _(image: https://www.tryorthokeys.com/id75)_
 
 - Hot-swappable: Y
@@ -38,6 +39,7 @@ _(image: https://www.tryorthokeys.com/id75)_
 ### XD75
 
 ![XD75](assets/XD75.webp)
+
 _(image: https://redd.it/ccr3gc)_
 
 - Hot-swappable: Y
@@ -47,11 +49,12 @@ _(image: https://redd.it/ccr3gc)_
 
 ## 12x5
 
-**60 keys** - enough keys for most of the symbols. Missing keys can be dealt with the help of the lower and raise layer.
+**60 keys** - enough keys to cover most of the symbols. The lower and raise layers can be used to deal with missing keys.
 
 ### Preonic
 
 ![Preonic](assets/Preonic.webp)
+
 _(image: https://drop.com/buy/preonic-mechanical-keyboard)_
 
 - Hot-swappable: Y
@@ -68,6 +71,7 @@ _(image: https://drop.com/buy/preonic-mechanical-keyboard)_
 ### JJ50
 
 ![JJ50](assets/JJ50.webp)
+
 _(image: https://kprepublic.com/collections/jj50-50)_
 
 - Hot-swappable: N
@@ -78,6 +82,7 @@ _(image: https://kprepublic.com/collections/jj50-50)_
 ### Nyquist
 
 ![Nyquist](assets/Nyquist.jpeg)
+
 _(image: https://twitter.com/martyschaer/status/960277109406134274)_
 
 - Hot-swappable: N
@@ -91,6 +96,7 @@ _(image: https://twitter.com/martyschaer/status/960277109406134274)_
 ### Helix
 
 ![Helix](assets/Helix.jpeg)
+
 _(image: https://github.com/MakotoKurauchi/helix)_
 
 - Hot-swappable: Y
@@ -104,11 +110,12 @@ _(image: https://github.com/MakotoKurauchi/helix)_
 
 ## 12x4
 
-**48 keys** - 12x5 minus number row.
+**48 keys** - 12x5 but minus the number row.
 
 ### Planck
 
 ![Planck](assets/Planck.webp)
+
 _(image: https://drop.com/buy/planck-mechanical-keyboard)_
 
 - Hot-swappable: Y
@@ -120,6 +127,7 @@ _(image: https://drop.com/buy/planck-mechanical-keyboard)_
 ### Planck EZ
 
 ![Planck EZ](assets/PlanckEZ.webp)
+
 _(image: https://ergodox-ez.com/pages/planck)_
 
 - Hot-swappable: Y
@@ -133,6 +141,7 @@ _(image: https://ergodox-ez.com/pages/planck)_
 ### JJ40
 
 ![JJ40](assets/JJ40.webp)
+
 _(image: https://kprepublic.com/collections/daisy-40)_
 
 - Hot-swappable: N
@@ -143,6 +152,7 @@ _(image: https://kprepublic.com/collections/daisy-40)_
 ### BM40
 
 ![BM40](assets/BM40.webp)
+
 _(image: https://kprepublic.com/products/bm40-rgb-40-hot-swap-custom-mechanical-keyboard-pcb-qmk-underglow-type-c-planck)_
 
 - Hot-swappable: Y
@@ -166,6 +176,7 @@ _(image: https://kprepublic.com/products/bm40-rgb-40-hot-swap-custom-mechanical-
 ### Levinson
 
 ![Levinson](assets/Levinson.jpeg)
+
 _(image: https://redd.it/kp1a5c)_
 
 - Hot-swappable: N
@@ -180,6 +191,7 @@ _(image: https://redd.it/kp1a5c)_
 ### BFO-9000
 
 ![BFO-9000](assets/BFO-9000.webp)
+
 _(image: https://redd.it/8wl1b7)_
 
 - Hot-swappable: N
