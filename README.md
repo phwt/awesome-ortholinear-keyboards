@@ -6,12 +6,17 @@
 - [12x5](#12x5)
   - [Preonic](#preonic)
   - [JJ50](#jj50)
+  - [Nyquist](#nyquist)
+  - [Helix](#helix)
 - [12x4](#12x4)
   - [Planck](#planck)
   - [Planck EZ](#planck-ez)
   - [JJ40](#jj40)
   - [BM40](#bm40)
   - [YMD40](#ymd40)
+  - [Levinson](#levinson)
+- [Others](#others)
+- [BFO-9000](#bfo-9000)
 
 ## 15x5
 
@@ -31,7 +36,7 @@ _(image: https://www.tryorthokeys.com/id75)_
 ### XD75
 
 ![XD75](assets/XD75.webp)
-_(image: http://redd.it/ccr3gc)_
+_(image: https://redd.it/ccr3gc)_
 
 - Hot-swappable: Y
 - Connection: USB-C
@@ -65,6 +70,33 @@ _(image: https://kprepublic.com/collections/jj50-50)_
 - Connection: Micro USB
 - Links
   - https://kprepublic.com/collections/jj50-50
+
+### Nyquist
+
+![Nyquist](assets/Nyquist.jpeg)
+_(image: https://twitter.com/martyschaer/status/960277109406134274)_
+
+- Hot-swappable: N
+- Connection: USB-C
+- Additional features
+  - Split layout
+  - Bottom row can be broken off to make it a 40%
+- Links
+  - https://keeb.io/collections/frontpage/products/nyquist-keyboard
+
+### Helix
+
+![Helix](assets/Helix.jpeg)
+_(image: https://github.com/MakotoKurauchi/helix)_
+
+- Hot-swappable: Y
+- Connection: _depends the MCU_ / TRRS for connecting the half
+- Additional features
+  - Split layout
+  - Additional 2 keys on each side (30+2 = 32 / total: 64 keys)
+  - Support OLED screens
+- Links
+  - https://github.com/MakotoKurauchi/helix
 
 ## 12x4
 
@@ -124,3 +156,30 @@ _(image: https://kprepublic.com/products/bm40-rgb-40-hot-swap-custom-mechanical-
   - RGB underglow
 - Links
   - https://ymdkey.com/products/ymd40-v2-diy-kit-qmk-type-c-pcb-cnc-case-plate-for-40-mini-cute-mechanical-keyboard-similar-to-planck-layout
+
+### Levinson
+
+![Levinson](assets/Levinson.jpeg)
+_(image: https://redd.it/kp1a5c)_
+
+- Hot-swappable: N
+- Connection: _depends the MCU_
+- Additional features
+  - Split layout
+- Links
+  - https://keeb.io/collections/frontpage/products/nyquist-keyboard
+
+## Others
+
+## BFO-9000
+
+![BFO-9000](assets/BFO-9000.webp)
+_(image: https://redd.it/8wl1b7)_
+
+- Hot-swappable: N
+- Connection: _depends the MCU_
+- Additional features
+  - 108 keys
+  - PCB can be broken off for 4-6 rows and 7-9 columns
+- Links
+  - https://keeb.io/products/bfo-9000-keyboard-customizable-full-size-split-ortholinear
