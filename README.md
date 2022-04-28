@@ -16,9 +16,11 @@
   - [YMD40](#ymd40)
   - [Levinson](#levinson)
 - [Others](#others)
-- [BFO-9000](#bfo-9000)
+  - [BFO-9000](#bfo-9000)
 
 ## 15x5
+
+**75 keys** - enough keys for all the symbols and the arrow cluster or full-size numpad. Can also put numpad (or other keys) in the center to make it a split layout.
 
 ### ID75
 
@@ -44,6 +46,8 @@ _(image: https://redd.it/ccr3gc)_
   - https://kprepublic.com/collections/xd75
 
 ## 12x5
+
+**60 keys** - enough keys for most of the symbols. Missing keys can be dealt with the help of the lower and raise layer.
 
 ### Preonic
 
@@ -99,6 +103,8 @@ _(image: https://github.com/MakotoKurauchi/helix)_
   - https://github.com/MakotoKurauchi/helix
 
 ## 12x4
+
+**48 keys** - 12x5 minus number row.
 
 ### Planck
 
@@ -171,7 +177,7 @@ _(image: https://redd.it/kp1a5c)_
 
 ## Others
 
-## BFO-9000
+### BFO-9000
 
 ![BFO-9000](assets/BFO-9000.webp)
 _(image: https://redd.it/8wl1b7)_
