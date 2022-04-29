@@ -167,9 +167,6 @@ _(image: https://kprepublic.com/products/bm40-rgb-40-hot-swap-custom-mechanical-
 
 - Hot-swappable: N
 - Connection: USB-C
-- Additional features
-  - 47 keys - limited to only single 2U space in the center
-  - RGB underglow
 - Links
   - https://ymdkey.com/products/ymd40-v2-diy-kit-qmk-type-c-pcb-cnc-case-plate-for-40-mini-cute-mechanical-keyboard-similar-to-planck-layout
 
