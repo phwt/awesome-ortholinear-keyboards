@@ -17,6 +17,10 @@
   - [Levinson](#levinson)
 - [Others](#others)
   - [BFO-9000](#bfo-9000)
+- [Ortholinear Keycaps](#ortholinear-keycaps)
+- [Uniform Profile Keycaps](#uniform-profile-keycaps)
+- [Full-Size Keyboard Set](#full-size-keyboard-set)
+- [Use blanks for modifiers](#use-blanks-for-modifiers)
 
 ## 15x5
 
@@ -198,3 +202,38 @@ _(image: https://redd.it/8wl1b7)_
   - PCB can be broken off for 4-6 rows and 7-9 columns
 - Links
   - https://keeb.io/products/bfo-9000-keyboard-customizable-full-size-split-ortholinear
+
+# Awesome Ortholinear Keycaps
+
+Finding a **non-blank** ortholinear keycap set can be challenging because there aren't enough 1U modifiers in a small set. The following content will assist you in finding a set that matches yours. This is not meant to be an exhaustive list, but rather a starting point for your ideal set.
+
+## Ortholinear Keycaps
+
+Surprisingly there're specifically sets that made for ortho keyboards. Surely, there will be enough 1U modifiers and spacebar for your board.
+
+![MT3](assets/MT3.webp)
+
+_(image: https://drop.com/buy/drop-matt3o-mt3-susuwatari-custom-keycap-set)_
+
+- Most **MT3** profile set will offers ortholinear option.
+- Some **XDA** and **DSA** set will offers ortholinear option.
+
+## Uniform Profile Keycaps
+
+Uniform profile such as XDA and DSA means that all caps will be in the same height which enable us to use the unused caps from other row in place of the modifiers.
+
+![XDA Canvas](assets/XDA-Canvas.webp)
+
+_(image: https://drop.com/buy/massdrop-x-mito-canvas-xda-custom-keycap-set)_
+
+- **DSA** and **XDA** are the most common uniform profile while the **KAM** and **ADA** are rarer.
+- Same height also means that the alpha caps can be switched across the row. So, there is no addon set required for alternative layout user such as AZERTY, Dvorak, Colemak, etc.
+- Feel free to compare the profile height at https://www.keycaps.info/
+
+## Full-Size Keyboard Set
+
+Sets that are made for 108 keys full-size keyboard will surely have a spare for your ortho but with mismatch legends.
+
+## Use blanks for modifiers
+
+If your favorite profile or colorway does not comes with the above mentioned options. You can just buy blanks to fill in the currently "blank" modifiers.
